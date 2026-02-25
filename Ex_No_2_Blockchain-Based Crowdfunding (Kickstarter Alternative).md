@@ -1,7 +1,7 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
-### NAME: SATHYANARAYANAN M
-### REG NO:212224040300
-### DEPARTMENT: CSE
+### NAME: Rahul V
+### REG NO: 212223240133
+### DEPARTMENT: AIML
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
